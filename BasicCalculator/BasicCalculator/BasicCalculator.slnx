@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CalculatorPrivateAssembly/CalculatorPrivateAssembly.csproj" Id="f04dd804-49c1-480f-b248-ed964ff2ec63" />
+  <Project Path="BasicCalculator.csproj" Id="e099a844-1177-4e2d-837f-449c1ffec917" />
+</Solution>
